@@ -2,7 +2,7 @@
 # Welcome to my Game list / Bienvenue sur ma liste de jeux
 
 Here you'll be able to find the list of all the games that I own and that I can stream with. Later on, I want to buy a capture card so that I can offer you more diversity (I'll be able to stream with my retro consoles).  
-________________________
+<hr style="border: 2px solid red;" />  
 Ici vous allez pouvoir trouver tous les jeux que je possède et que je peux stream. Plus tard, j'aimerai acheter un capture card pour pouvoir vous offrir plude de diversité (je pourrais stream avec mes consoles retro entre autres). 
   
   
