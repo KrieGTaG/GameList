@@ -20,8 +20,6 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 # Plateforme que je peux stream 
 
 ## PC
-
-<font size="1">Test</font>
 ### [Steam](Steam/indexSteam.md)  
 ### [Origin](Origin/indexOrigin.md)  
 ### [Uplay](Uplay/indexUplay.md)  
