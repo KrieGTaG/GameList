@@ -25,7 +25,7 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 
 ## Nintendo 
 + NES  
-+ SNES  
++  SNES  
 + Nintendo64   
 + Gamecube  
 + Wii  
