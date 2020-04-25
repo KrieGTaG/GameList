@@ -19,7 +19,7 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 # Current streamable platform /    <br>
 # Plateforme que je peux stream 
 
-[Steam](Steam/indexSteam.md)  
+# [Steam](Steam/indexSteam.md)  
 [Origin](Origin/indexOrigin.md)  
 [Uplay](Uplay/indexUplay.md)  
 [EpicGames](EpicGames/indexEpicGames.md)  
