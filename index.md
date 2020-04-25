@@ -35,19 +35,19 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 # Plateforme que je pourrai stream à l'avenir
 
 ## Nintendo 
-+ NES  
-+ SNES  
-+ Nintendo64   
-+ Gamecube  
-+ Wii  
-+ Nintendo Switch  
+### NES  
+### SNES  
+### Nintendo64   
+### Gamecube  
+### Wii  
+### Nintendo Switch  
 <br>
 
 ## Sony
-+ PS1    
-+ PS2    
-+ PS3    
+### PS1    
+### PS2    
+### PS3    
 <br>
 
 ## Microsoft
-+ Xbox360  
+### Xbox360  
