@@ -1,8 +1,6 @@
 
-<pre>
-# Welcome to my Game list /
+# Welcome to my Game list
 # Bienvenue sur ma liste de jeux
-<pre>
 
 Here you'll be able to find the list of all the games that I own and that I can stream with. Later on, I want to buy a capture card so that I can offer you more diversity (I'll be able to stream with my retro consoles).  
 <hr style="border: 1px solid grey;" />  
