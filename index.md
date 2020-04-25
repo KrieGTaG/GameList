@@ -24,12 +24,12 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 # Possible streamable console / Plateforme que je pourrai stream à l'avenir
 
 ## Nintendo 
-<p style="color:#0000FF;">NES</p>    
-[SNES]     
-[Nintendo64]      
-[Gamecube]     
-[Wii]   
-[Nintendo Switch]     
+⋅⋅* NES  
+⋅⋅* SNES  
+⋅⋅* Nintendo64   
+⋅⋅* Gamecube  
+⋅⋅* Wii  
+⋅⋅* Nintendo Switch  
 
 ## Sony
 [PS1]    
