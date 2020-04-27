@@ -17,9 +17,9 @@ Explore all the original campaigns like never before as well as the best-selling
 Choose your path to greatness with this definitive remaster to one of the most beloved strategy games of all time.
 
 ## Images
-![AOEIIDefEditionCover](capsule_616x353.jpg=250x250 "AOE II Def edition Cover")
-![AOEIIDefEditionImage1](download.jpg "AOE II Def edition Image 1" =250x250)
-![AOEIIDefEditionImage2](vlcsnap_2019_06_09_16h40m08s235.jpg "AOE II Def edition Image 2" =250x250)
+![AOEIIDefEditionCover](capsule_616x353.jpg=250x250)
+![AOEIIDefEditionImage1](download.jpg =250x250)
+![AOEIIDefEditionImage2](vlcsnap_2019_06_09_16h40m08s235.jpg =250x250 "AOE II Def edition Image 2" )
 
 ## Lien vers du gameplay / Link Toward Gameplay
 
