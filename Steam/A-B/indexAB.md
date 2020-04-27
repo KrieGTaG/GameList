@@ -5,4 +5,4 @@
 ### [Alan Wake](AlanWake/AlanWake.md)    
 ### [Alan Wake American Nightmare](AlanWakeAmericanNightmare/AlanWakeAmericanNightmare.md)   
 
-## [Back to homepage](/)  -  [Back to Steam index](Steam/indexSteam.html)
+## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.html)
