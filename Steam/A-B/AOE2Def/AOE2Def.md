@@ -16,8 +16,14 @@ Explore all the original campaigns like never before as well as the best-selling
 
 Choose your path to greatness with this definitive remaster to one of the most beloved strategy games of all time.
 
+## Images
+![alt text][AOEImage1]
+
+## Link Toward Gameplay
+[https://www.youtube.com/watch?v=UOJ1M27AOxw] https://www.youtube.com/watch?v=UOJ1M27AOxw
+
 
 ## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.md)
 
 [//]: # (This may be the most platform independent comment)
-[AOEImage1]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[AOEImage1]: Steam/A-B/AOE2Def/ss_b42dec99b197fea9882abc333e2cfb0a77dd3ed2.116x65.jpg "AOE II Def edition Image 1"
