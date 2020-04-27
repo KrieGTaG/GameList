@@ -7,7 +7,7 @@ Découvrez les campagnes d'origine comme vous ne les aviez jamais vues, ainsi qu
 
 Choisissez votre voie vers la grandeur dans ce remaster ultime de l'un des jeux de stratégie les plus mythiques jamais créés.
 
-********
+
 
 ## About this game
 Age of Empires II: Definitive Edition celebrates the 20th anniversary of one of the most popular strategy games ever with stunning 4K Ultra HD graphics, a new and fully remastered soundtrack, and brand-new content, “The Last Khans” with 3 new campaigns and 4 new civilizations.
@@ -17,9 +17,9 @@ Explore all the original campaigns like never before as well as the best-selling
 Choose your path to greatness with this definitive remaster to one of the most beloved strategy games of all time.
 
 ## Images
-![AOEIIDefEditionCover](capsule_616x353.jpg=250x250)
-![AOEIIDefEditionImage1](download.jpg =250x250)
-![AOEIIDefEditionImage2](vlcsnap_2019_06_09_16h40m08s235.jpg =250x250 "AOE II Def edition Image 2" )
+<img src="capsule_616x353.jpg" alt="cover" style="width:200px; height:200px;"/>
+<img src="download.jpg" alt="AOE II Def edition Image 1" style="width:200px; height:200px;"/>
+<img src="vlcsnap_2019_06_09_16h40m08s235.jpg" alt="AOE II Def edition Image 2" style="width:200px; height:200px;"/>
 
 ## Lien vers du gameplay / Link Toward Gameplay
 
