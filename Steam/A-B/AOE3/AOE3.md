@@ -12,15 +12,15 @@ Immerse yourself in the award-winning strategy experience. Microsoft Studios bri
 
 ## Images
 <img src="capsule_616x353.jpg" alt="cover" style="width:450px; height:250px;"/>
-<img src="boats.jpg" alt="AOE II Def edition Image 1" style="width:450px; height:250px;"/>
-<img src="vlcsnap_2019_06_09_16h40m08s235.jpg" alt="AOE II Def edition Image 2" style="width:450px; height:250px;"/>
+<img src="Age-of-Empires-III-Complete-Collection.jpg" alt="AOE II Def edition Image 1" style="width:450px; height:250px;"/>
+<img src="23330136.jpg" alt="AOE II Def edition Image 2" style="width:450px; height:250px;"/>
 
 <br>
 
 ## Lien vers du gameplay / Link Toward Gameplay
 
-[Full game](https://www.youtube.com/watch?v=UOJ1M27AOxw)   
-[Game pro](https://www.youtube.com/watch?v=wq2XbZkN7fE)
+[Gameplay 1](https://www.youtube.com/watch?v=e3Ki6rs7JCk)   
+[Gameplay 2](https://www.youtube.com/watch?v=eGQeX2VaKTA)
 
 <br>
 
