@@ -17,7 +17,7 @@ Explore all the original campaigns like never before as well as the best-selling
 Choose your path to greatness with this definitive remaster to one of the most beloved strategy games of all time.
 
 ## Images
-![AOEIIDefEditionCover](capsule_616x353.jpg =250x250 "AOE II Def edition Cover")
+![AOEIIDefEditionCover](capsule_616x353.jpg=250x250 "AOE II Def edition Cover")
 ![AOEIIDefEditionImage1](download.jpg "AOE II Def edition Image 1" =250x250)
 ![AOEIIDefEditionImage2](vlcsnap_2019_06_09_16h40m08s235.jpg "AOE II Def edition Image 2" =250x250)
 
@@ -27,4 +27,4 @@ Choose your path to greatness with this definitive remaster to one of the most b
 [Game pro](https://www.youtube.com/watch?v=wq2XbZkN7fE)
 
 
-## [Back to homepage](/)  -  [Back to Steam index](Steam/indexSteam.md)
+## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.md)
