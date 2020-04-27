@@ -27,4 +27,4 @@ Choose your path to greatness with this definitive remaster to one of the most b
 [Game pro](https://www.youtube.com/watch?v=wq2XbZkN7fE)
 
 
-## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.md)
+## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.html)
