@@ -1,4 +1,4 @@
-# [Age Of Empire II : Defintive Edition](AOE2Def.md)  
+# Age Of Empire II : Defintive Edition
 
 ## À PROPOS DE CE JEU
 Age of Empires II: Definitive Edition fête le 20e anniversaire de l'une des franchises de jeux de stratégie les plus populaires au monde avec des graphismes époustouflants 4K Ultra HD, une bande originale entièrement remasterisée et du contenu inédit, "Les derniers khans", proposant 3 nouvelles campagnes et 4 civilisations supplémentaires.
@@ -18,9 +18,11 @@ Choose your path to greatness with this definitive remaster to one of the most b
 
 ## Images
 ![alt text][AOEImage1]
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](Steam/A-B/AOE2Def/ss_b42dec99b197fea9882abc333e2cfb0a77dd3ed2.116x65.jpg "Logo Title Text 1")
 
 ## Link Toward Gameplay
-[https://www.youtube.com/watch?v=UOJ1M27AOxw] https://www.youtube.com/watch?v=UOJ1M27AOxw
+https://www.youtube.com/watch?v=UOJ1M27AOxw
 
 
 ## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.md)
