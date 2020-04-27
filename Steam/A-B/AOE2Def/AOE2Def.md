@@ -18,7 +18,7 @@ Choose your path to greatness with this definitive remaster to one of the most b
 
 ## Images
 <img src="capsule_616x353.jpg" alt="cover" style="width:450px; height:250px;"/>
-<img src="download.jpg" alt="AOE II Def edition Image 1" style="width:450px; height:250px;"/>
+<img src="boats.jpg" alt="AOE II Def edition Image 1" style="width:450px; height:250px;"/>
 <img src="vlcsnap_2019_06_09_16h40m08s235.jpg" alt="AOE II Def edition Image 2" style="width:450px; height:250px;"/>
 
 ## Lien vers du gameplay / Link Toward Gameplay
