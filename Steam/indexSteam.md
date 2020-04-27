@@ -20,4 +20,4 @@ As the collection is quite big, you can search game with their first letter of b
 ### [Y-Z](A-B/indexAB.md)
 
 
-## [Back to homepage](index.md)
+## [Back to homepage](/index.md)
