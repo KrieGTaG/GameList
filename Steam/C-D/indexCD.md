@@ -10,6 +10,6 @@
 ### [Dead Space](DeadSpace/DeadSpace.md)    
 ### [Defense Grid: The Awakening](DefenseGrid/DefenseGrid.md)    
 ### [DiRT 3 Complete Edition](DiRT3/DiRT3.md)    
-### [Dungeons2](Dungeons2/Dungeons2.md)    
+### [Dungeons 2](Dungeons2/Dungeons2.md)    
 
 ## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.html)
