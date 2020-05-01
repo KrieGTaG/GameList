@@ -72,8 +72,8 @@
 
 ## Lien vers du gameplay / Link Toward Gameplay
 
-[Full game](https://www.youtube.com/watch?v=UOJ1M27AOxw)   
-[Game pro](https://www.youtube.com/watch?v=wq2XbZkN7fE)
+[IGN Review](https://www.youtube.com/watch?v=CqmN6eGXi-k)   
+[Gampeplay](https://www.youtube.com/watch?v=5yYh_2a-zQg)
 
 <br>
 
