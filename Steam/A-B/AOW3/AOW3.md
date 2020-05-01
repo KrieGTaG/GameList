@@ -4,29 +4,29 @@
 <br>
 
 ## À propos de ce jeu
-Age of Wonders III est la suite tant attendue de la série de jeux de stratégie primée. Avec son mélange unique de construction d'empire, de jeu de rôle et de guerre, le tout dans un univers fantasy, Age of Wonders III propose le jeu de stratégie au tour par tout suprême pour les vétérans de la série comme pour les nouveaux joueurs !
+**Age of Wonders III** est la suite tant attendue de la série de jeux de stratégie primée. Avec son mélange unique de construction d'empire, de jeu de rôle et de guerre, le tout dans un univers fantasy, Age of Wonders III propose le jeu de stratégie au tour par tout suprême pour les vétérans de la série comme pour les nouveaux joueurs !
 
-Créez un empire à votre image
-Incarnez l'une des 6 classes de dirigeants façon RPG : Sorcier, Théocrate, Conspirateur, Belliciste, Archidruide ou Machiniste, une classe portée sur la technologie.
-Découvrez de puissantes compétences spécifiques à votre classe afin de développer votre empire et votre arsenal.
-Choisissez vos alliés parmi les six races principales : Humains, Hauts-Elfes, Nains, Orcs, Gobelins et Draconiens, sans compter les monstres et leurs habitations propres.
+**Créez un empire à votre image**    
+- Incarnez l'une des 6 classes de dirigeants façon RPG : Sorcier, Théocrate, Conspirateur, Belliciste, Archidruide ou Machiniste, une classe portée sur la technologie.
+- Découvrez de puissantes compétences spécifiques à votre classe afin de développer votre empire et votre arsenal.
+- Choisissez vos alliés parmi les six races principales : Humains, Hauts-Elfes, Nains, Orcs, Gobelins et Draconiens, sans compter les monstres et leurs habitations propres.
 
-Explorez et exploitez un univers fantasy vivant
+**Explorez et exploitez un univers fantasy vivant**    
 Explorez un monde riche, plus détaillé et vivant que jamais, avec plus de 50 types de lieux où chercher des trésors.
 Étendez votre domaine en bâtissant de nouvelles colonies, concluez des pactes avec de monstrueux alliés et capturez de précieuses ressources.
 Utilisez une magie tellurique puissante pour terraformer les terres selon vos besoins.
 
-Menez des batailles tactiques en profondeur
+**Menez des batailles tactiques en profondeur**      
 Recrutez des héros légendaires, procurez-leur des armes magiques, et laissez-les mener vos armées au combat.
 Écrasez vos ennemis grâce au système de combat tactique au tour par tour en 3D.
 Devenez un tacticien expert. Écrasez les défenses des villes, découvrez les avantages du débordement et maîtrisez les centaines de capacités de votre armée.
 
-Maîtrisez les nombreux modes d'Age of Wonders III !
+**Maîtrisez les nombreux modes d'Age of Wonders III !**      
 Plongez-vous dans le riche scénario de la campagne solo, jouable dans les deux camps d'un conflit épique.
 Créez une infinité de scénarios grâce au générateur de carte aléatoire.
 Affrontez jusqu'à 8 joueurs en ligne au cours de guerres multijoueurs.
 
-Quelques remarques :
+**Quelques remarques :**      
 Les outils d'édition de niveaux sont fournis à titre gracieux pour les fans. La configuration requise peut être différente de celle du jeu Age of Wonders III, ils ne bénéficient pas de support technique, et leur interface est uniquement en anglais.
 Coop : les cartes aléatoires et scénarios indépendants permettent à des alliances de joueurs d'affronter des adversaires gérés par l'IA.
 Coop locale : les cartes aléatoires et scénarios indépendants permettent à des alliances de joueurs en mode hotseat sur le même ordinateur d'affronter des adversaires gérés par l'IA.
