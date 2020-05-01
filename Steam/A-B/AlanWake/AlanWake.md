@@ -28,7 +28,7 @@ With the body of an action game and the mind of a psychological thriller, Alan W
 ## Lien vers du gameplay / Link Toward Gameplay
 
 [Review](https://www.youtube.com/watch?v=A0dtjq1qSTw)   
-[Gamplay](https://www.youtube.com/watch?v=bSdg7VZM_8M)
+[Gameplay](https://www.youtube.com/watch?v=bSdg7VZM_8M)
 
 <br>
 
