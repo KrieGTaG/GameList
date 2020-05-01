@@ -73,7 +73,7 @@
 ## Lien vers du gameplay / Link Toward Gameplay
 
 [IGN Review](https://www.youtube.com/watch?v=CqmN6eGXi-k)   
-[Gampeplay](https://www.youtube.com/watch?v=5yYh_2a-zQg)
+[Gameplay](https://www.youtube.com/watch?v=5yYh_2a-zQg)
 
 <br>
 
