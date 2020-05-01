@@ -66,7 +66,7 @@
 ## Images
 <img src="14904769.jpg" alt="cover" style="width:450px; height:250px;"/>
 <img src="DJ-SS17-625x377.jpg" alt="AOE II Def edition Image 1" style="width:450px; height:250px;"/>
-<img src="download.jpg" alt="AOE II Def edition Image 2" style="width:450px; height:250px;"/>
+<img src="ss-fab8bd21c3ffaefe116703...-20180916140601.jpg" alt="AOE II Def edition Image 2" style="width:450px; height:250px;"/>
 
 <br>
 
