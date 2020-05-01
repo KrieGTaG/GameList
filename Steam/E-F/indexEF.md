@@ -1,5 +1,7 @@
 # index EF
 
+### [The Elder Scrolls V: Skyrim](Skyrim/Skyrim.md)    
+### [The Evil Within 2](TheEvilWithin2/TheEvilWithin2.md)    
 ### [F.E.A.R. 2: Project Origin](Fear2/Fear2.md)    
 ### [F.E.A.R. 3](Fear3/Fear3.md)     
 ### [F1 2015](F12015/F12015.md)    
