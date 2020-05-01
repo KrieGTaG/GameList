@@ -5,7 +5,7 @@
 ### [Assassin's Creed Black Flag](ACBF/ACBF.md)    
 ### [Assassin's Creed Unity](AC2Unity/ACUnity.md)    
 ### [Beyond Good and Evil](BeyondGoodandEvil/BeyondGoodandEvil.md)    
-### [Child of Light](ChildofLight/Child of Light.md)    
+### [Child of Light](ChildofLight/ChildofLight.md)    
 ### [Far Cry 3 Blood Dragon](FarCry3BloodDragon/FarCry3BloodDragon.md)    
 ### [Prince of Persia: The Sands of Time](PrinceofPersiaTheSandsofTime/PrinceofPersiaTheSandsofTime.md)    
 ### [Rayman Origins](RaymanOrigins/RaymanOrigins.md)    
