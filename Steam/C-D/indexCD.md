@@ -1,8 +1,10 @@
 # index CD
 
 ### [Call of Duty: Advanced Warfare](CODAdvancedWarfare/CODAdvancedWarfare.md)    
+### [Call of Duty: Black Ops III](BO3/BO3.md)     
 ### [Call of Duty: Infinite Warfare](CODInfiniteWarfare/CODInfiniteWarfare.md)     
 ### [Call of Duty: Modern Warfare Remastered](CODModernWarfareRemastered/CODModernWarfareRemastered.md)    
+### [Colorcers](Colorcers/Colorcers.md)     
 ### [Counter-Strike: Global Offensive](CSGO/CSGO.md)     
 ### [Cry of Fear](CryOfFear/CryOfFear.md)    
 ### [Crysis 2 Maximum Edition](Crysis2/Crysis2.md)    
@@ -10,6 +12,9 @@
 ### [Dead Space](DeadSpace/DeadSpace.md)    
 ### [Defense Grid: The Awakening](DefenseGrid/DefenseGrid.md)    
 ### [DiRT 3 Complete Edition](DiRT3/DiRT3.md)    
+### [DiRT Showdown](DiRTShowdown/DiRTShowdown.md)    
+### [Dishonored 2](Dishonored2/Dishonored2.md)    
 ### [Dungeons 2](Dungeons2/Dungeons2.md)    
+### [Dying Light](DyingLight/DyingLight.md)    
 
 ## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.html)
