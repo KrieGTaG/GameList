@@ -27,8 +27,8 @@ Choose your path to greatness with this definitive remaster to one of the most b
 
 ## Lien vers du gameplay / Link Toward Gameplay
 
-[Full game](https://www.youtube.com/watch?v=UOJ1M27AOxw)   
-[Game pro](https://www.youtube.com/watch?v=wq2XbZkN7fE)
+[Trailer](https://www.youtube.com/watch?v=Dg02_suSIAQ)   
+[GamePlay](https://www.youtube.com/watch?v=yYEJS387DVg)
 
 <br>
 
