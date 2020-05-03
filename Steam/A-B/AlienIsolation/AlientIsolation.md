@@ -37,9 +37,9 @@ Created using the CATHODE™ engine.
 <br>
 
 ## Images
-<img src="cover.jpg" alt="cover" style="width:450px; height:250px;"/>
-<img src="american-nightmare-1.jpg" alt="Image 1" style="width:450px; height:250px;"/>
-<img src="download.jpg" alt="Image 2" style="width:450px; height:250px;"/>
+<img src="capsule_616x353.jpg" alt="cover" style="width:450px; height:250px;"/>
+<img src="Vci6SSNNzhommJtRsM8ivR.jpg" alt="Image 1" style="width:450px; height:250px;"/>
+<img src="pete-norris-alien-isolation-20170705190326.jpg" alt="Image 2" style="width:450px; height:250px;"/>
 
 <br>
 
