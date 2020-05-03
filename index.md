@@ -16,6 +16,12 @@ In this stream, I want to offer to the viewers the content they want to see the 
 Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'ils désirent. C'est pourquoi VOUS allez décider de mon prochain jeu solo! Choisissez un jeu dans cette liste, et ajouter le à la suggestion box, je comptabiliserai le tout pour savoir quel sera le prochain jeu!   
 <br>
 
+# List of completed games on stream /     <br>
+# Liste de jeu complété durant le stream
+
+- Diablo III
+<br>
+
 # Current streamable platform /    <br>
 # Plateforme que je peux stream 
 
