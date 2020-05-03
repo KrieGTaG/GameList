@@ -3,23 +3,41 @@
 <br>
 
 ## À propos de ce jeu
-Dans ce tout nouvel opus, Alan Wake affronte le héraut des ténèbres, le malfaisant M. Grincement ! Nouvelle trame captivante, hordes d'ennemis effroyables, puissance de feu redoutable et décors sublimes en Arizona, plus un nouveau mode aussi amusant que retors font de ce jeu un indispensable pour les vétérans d'Alan Wake et un tremplin tout indiqué pour les néophytes !       
-Caractéristiques :
-- **Jouez au mode campagne :** lancez-vous dans une lutte sans merci contre votre clone assassin pour regagner votre vie... et réécrire la réalité !
-- **Mode arcade "Battez-vous jusqu'à l'aube" :** Dans ce mode arcade bourré d'action, vous devrez maîtriser le combat à la torche pour résister jusqu'à l'aube et battre vos amis aux classements. Saurez-vous survivre jusqu'à l'aurore ?
-- **Faites face aux ténèbres :** Des ennemis dangereux et tourmentés vous traquent dans la pénombre. Réexpédiez-les en enfer grâce au puissant arsenal d'armes à votre disposition.
+Découvrez le vrai sens de la peur dans Alien: Isolation, un survival horror se déroulant dans une atmosphère d'épouvante et de danger constants. Quinze ans ont passé depuis les événements d'Alien™. La fille d'Ellen Ripley, Amanda, en mission pour percer le mystère de la disparition de sa mère, s'embarque dans une lutte désespérée pour survivre.
+
+Dans la peau d'Amanda, vous naviguerez dans un monde toujours plus angoissant tout en faisant face à une population paniquée et désœuvrée, ainsi qu'à un Alien imprévisible et sans pitié.
+
+Sans moyens ni préparation, vous devez fouiller les alentours en quête de ressources, improviser des solutions et utilisez votre bon sens non seulement pour venir à bout de votre mission mais aussi pour rester en vie.
+
+Crée avec le moteur CATHODE ™.
 
 ## About this game
-In this brand new standalone experience, Alan Wake fights the herald of darkness, the evil Mr. Scratch! A thrilling new storyline, hordes of creepy enemies, serious firepower and beautiful Arizona locations, combined with a fun and challenging new game mode make this a must for Alan Wake veterans, and the perfect jumping on point for new players!      
-Key Features:      
-- **Play the full-fledged Story Mode:** You’ll be on the edge of your seat as you fight to stop your murderous evil double to take back your life... and change reality itself!
-- **Fight till dawn arcade mode:** In the action-packed Arcade Mode, you’ll need to master the Fight with Light mechanic to stay alive until dawn and beat your friends on the Leaderboards. Can you survive until sunrise?
-- **Face the darkness:** Twisted and dangerous enemies stalk you in the shadows. Dispatch them with the powerful arsenal of weapons at your disposal.
+**HOW WILL YOU SURVIVE?**
+
+Discover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger. Fifteen years after the events of Alien™, Ellen Ripley’s daughter, Amanda enters a desperate battle for survival, on a mission to unravel the truth behind her mother's disappearance.
+
+As Amanda, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked, desperate population and an unpredictable, ruthless Alien.
+
+Underpowered and underprepared, you must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission, but to simply stay alive.
+
+**Overcome an ever-present deadly threat** – Experience persistent fear as a truly dynamic and reactive Alien uses its senses to hunt you down and respond to your every move.
+
+**Improvise to survive** – Hack systems, scavenge for vital resources and craft items to deal with each situation. Will you evade your enemies, distract them or face them head on?
+
+Explore a world of mystery and betrayal – Immerse yourself in the detailed setting of Sevastopol, a decommissioned trading station on the fringes of space. Encounter a rich cast of inhabitants in a world scarred by fear and mistrust.
+
+When she left Earth, Ellen Ripley promised her daughter Amanda she would return home for her 11th birthday. Amanda never saw her again.
+
+Fifteen years later, Amanda, now a Weyland-Yutani employee, hears that the flight recorder of her mother’s ship, the Nostromo, has been recovered at the remote trading station Sevastopol. The temptation for her to finally understand what happened is too much to resist. When the crew arrive at Sevastopol, they find something is desperately wrong. It all seems to be connected to an unknown menace, stalking and killing deep in the shadows.
+
+In order to uncover the truth about her mother, Amanda is forced to confront the same terrifying thing that separated them.
+
+Created using the CATHODE™ engine.
 
 <br>
 
 ## Images
-<img src="17173621525l.jpg" alt="cover" style="width:450px; height:250px;"/>
+<img src="cover.jpg" alt="cover" style="width:450px; height:250px;"/>
 <img src="american-nightmare-1.jpg" alt="Image 1" style="width:450px; height:250px;"/>
 <img src="download.jpg" alt="Image 2" style="width:450px; height:250px;"/>
 
@@ -27,8 +45,8 @@ Key Features:
 
 ## Lien vers du gameplay / Link Toward Gameplay
 
-[Full game](https://www.youtube.com/watch?v=UOJ1M27AOxw)   
-[Game pro](https://www.youtube.com/watch?v=wq2XbZkN7fE)
+[Review](https://www.youtube.com/watch?v=kc1MwlTwv3E)   
+[GamePlay](https://www.youtube.com/watch?v=1pvaw3tqgaw)
 
 <br>
 
