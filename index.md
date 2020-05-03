@@ -25,7 +25,7 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 # Cours de programmation du moment
 
 ## [Set up your Java development environment](https://openclassrooms.com/en/courses/5684376-set-up-your-java-development-environment/5916791-get-the-most-out-of-this-course)
-##[Learn programming with Java](https://openclassrooms.com/en/courses/5667431-learn-programming-with-java)
+## [Learn programming with Java](https://openclassrooms.com/en/courses/5667431-learn-programming-with-java)
 
 ## [Diablo III](Blizzard/Diablo3/Diablo3.md)  
 
