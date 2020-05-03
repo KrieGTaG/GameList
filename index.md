@@ -19,7 +19,6 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 # List of completed games on stream /     <br>
 # Liste de jeu complété durant le stream
 
-- Diablo III
 ## [Diablo III](Blizzard/Diablo3/Diablo3.md)  
 
 # Current streamable platform /    <br>
