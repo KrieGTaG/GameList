@@ -19,7 +19,8 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 # List of completed games on stream /     <br>
 # Liste de jeu complété durant le stream
 
-## [Diablo III](Blizzard/Diablo3/Diablo3.md)  
+## [Diablo III](https://eu.diablo3.com/en/game/what-is)  
+## [The Last Of Us](https://www.playstation.com/fr-ca/games/the-last-of-us-remastered-ps4/)  
 <br>
 
 # Current streamable platform /    <br>
