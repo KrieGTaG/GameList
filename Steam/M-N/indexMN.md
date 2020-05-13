@@ -1,10 +1,9 @@
 # index MN
 
-### [Medal of Honor](MedalOfHonor/MedalOfHonor.md)    
-### [Metro 2033](Metro2033/Metro2033.md)     
-### [Middle Earth: Shadow of Mordor](ShadowofMordor/ShadowofMordor.md)     
-### [Mirage: Arcane Warfare](MirageArcaneWarfare/MirageArcaneWarfare.md)    
-### [Mirror's Edge](MirrorsEdge/MirrorsEdge.md)     
-### [Mortal Kombat X](MKX/MKX.md)     
+### [Medal of Honor](https://store.steampowered.com/app/47790/Medal_of_Honor/)    
+### [Metro 2033](https://www.gamespot.com/reviews/metro-2033-review/1900-6253862/)     
+### [Middle Earth: Shadow of Mordor](https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/)     
+### [Mirror's Edge](https://store.steampowered.com/app/17410/Mirrors_Edge/)     
+### [Mortal Kombat X](https://store.steampowered.com/app/307780/Mortal_Kombat_X/)     
 
 ## [Back to homepage](/)  -  [Back to Steam index](/Steam/indexSteam.html)
