@@ -28,6 +28,7 @@ Dans ce stream, je souhaite offrir le plus possible aux viewers le contenu qu'il
 
 ## PC
 ### [Steam](Steam/indexSteam.md)  
+### [Origin](Blizzard/indexBlizzard.md)  
 ### [Origin](Origin/indexOrigin.md)  
 ### [Uplay](Uplay/indexUplay.md)  
 ### [EpicGames](EpicGames/indexEpicGames.md)  
