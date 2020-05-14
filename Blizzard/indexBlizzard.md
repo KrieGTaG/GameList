@@ -1,12 +1,12 @@
 
 # index Blizzard
 
-### [Call Of Duty Black Ops 4](BO4/BO4.md)     
-### [Diablo II](Diablo2/Diablo2.md)    
-### [Diablo III](Diablo3/Diablo3.md)    
-### [Overwatch](Overwatch/Overwatch.md)    
-### [StarCraft](StarCraft/StarCraft.md)      
-### [StarCraft II](StarCraft2/StarCraft2.md)     
-### [Warcraft III](Warcraft3/Warcraft3.md)       
+### [Call Of Duty Black Ops 4](https://www.callofduty.com/ca/blackops4)     
+### [Diablo II](https://www.blizzard.com/games/d2/)    
+### [Diablo III](https://www.blizzard.com/games/d3/)    
+### [Overwatch](https://playoverwatch.com/)    
+### [StarCraft](https://starcraft.com/)      
+### [StarCraft II](https://starcraft2.com/)     
+### [Warcraft III](https://www.blizzard.com/games/war3/)       
 
 ## [Back to HomePage](/)
