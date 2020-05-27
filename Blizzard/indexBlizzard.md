@@ -1,7 +1,7 @@
 
 # index Blizzard
 
-### [Call Of Duty Black Ops 4](https://www.callofduty.com/ca/blackops4)     
+### [Call Of Duty Black Ops 4](https://www.callofduty.com/ca/en/blackops4)     
 ### [Diablo II](https://www.blizzard.com/games/d2/)    
 ### [Diablo III](https://www.blizzard.com/games/d3/)    
 ### [Overwatch](https://playoverwatch.com/)    
